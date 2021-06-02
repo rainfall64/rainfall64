@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rainfall64
 - 👀 I’m interested in machine learning, image processing
 - 🌱 I’m currently learning machine learning, deep learning
-- 💞️ I’m looking to collaborate on machine learning, deep learning
+- 💞️ I’m looking to collaborate on machine learning, deep learning, openCV
 - 📫 How to reach me ...
 
 <!---
